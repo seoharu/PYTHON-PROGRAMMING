@@ -1,6 +1,11 @@
-numpy
-pandas
-Pillow
+numpy>=1.24
+pandas>=2.0
+Pillow>=10.0
+matplotlib>=3.7
+tqdm>=4.66
+
+# Install torch/torchvision according to your CUDA version.
+# See README.md and the official PyTorch installation guide.
 torch
 torchvision
-matplotlib
+
