@@ -1,2 +1,0 @@
-# PYTHON-PROGRAMMING
-26-01 고급파이썬프로그래밍 
