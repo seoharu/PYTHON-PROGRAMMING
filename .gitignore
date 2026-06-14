@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.npy
+*.pt
+*.pth
+*.ckpt
+*.log
+
+latents/
+logs/
+results/before_*/
+results/after_*/
+
+.DS_Store
+.env
+.venv/
